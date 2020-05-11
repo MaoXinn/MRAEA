@@ -2,7 +2,7 @@
 
 ## Datasets
 
-The datasets are from [GCN-Align](https://github.com/1049451037/GCN-Align) and [BooTEA](https://github.com/nju-websoft/BootEA)
+The datasets are from [GCN-Align](https://github.com/1049451037/GCN-Align) and [BootEA](https://github.com/nju-websoft/BootEA)
 
 * ent_ids_1: ids for entities in source KG;
 * ent_ids_2: ids for entities in target KG;
